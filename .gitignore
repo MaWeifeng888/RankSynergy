@@ -1,0 +1,17 @@
+.idea/
+.vscode/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.pem
+*.key
+.venv/
+venv/
+logs/
+saved_model/
+pretrain_representation_model/
+loop_outputs/
+*.pt
+*.pth
+*.model
